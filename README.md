@@ -4,8 +4,7 @@
 - 🖥 Web Applications
 - 🎨 Interfaces
 - 🔌 Back-end development
+- 
 <br>
-<br>
-
 ![Lucas Abrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=synthwave)
 
