@@ -6,7 +6,6 @@
 - 🔌 Back-end development
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ![Lucas Abrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=synthwave)
 
