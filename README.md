@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas Silva Dantas Abrantes and welcome to my GitHub
-*I am a intern programmer and a student of programming. 🚀 from Brazil, currently, I'm a 23 years old student, I'm currently learning Typescript, ReactJS, NodeJS and AdonisJS Beside's programming, I enjoy watch animes, tv serie, travel and play basketball, and i have a great passion for web development,*
+*I am a intern programmer and a student of programming. 🚀 from Brazil, currently, I'm a 23 years old student, I'm currently learning Typescript, ReactJS, NodeJS and AdonisJS Beside's programming, I enjoy watch animes, tv serie, play basketball, and i have a great passion for web development,*
 <br>
 - 🖥 Web Applications
 - 🎨 Interfaces
