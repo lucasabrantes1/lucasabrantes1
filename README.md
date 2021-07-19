@@ -5,17 +5,9 @@
 <br>
 <br>
 
-![LucasAbrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=tokyonight)
+![LucasAbrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=gradient)
 
 <br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1=algolia" alt="Top languages"/>
-<br>
-
-
 
 - 🖥 Web Applications
 - 🎨 Interfaces
