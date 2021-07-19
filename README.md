@@ -9,8 +9,9 @@
 <br>
 <br>
 
-![LucasAbrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=synthwave)
+
 
 <br>
-(https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasabrantes1)](https://github.com/anuraghazra/github-readme-stats)
+
 
