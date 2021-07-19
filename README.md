@@ -5,6 +5,6 @@
 - 🎨 Interfaces
 - 🔌 Back-end development
 
-<br>
+
 ![Lucas Abrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=synthwave)
 
