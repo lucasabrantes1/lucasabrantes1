@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Lucas Silva Dantas Abrantes. Welcome to my GitHub
 
-<!--
-**lucasabrantes1/lucasabrantes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Hi, I'm Lucas Abrantes, I am a intern programmer and a student of programming. 🚀 from Brazil, currently, I'm a 22 years old student. Beside's programming, I enjoy watch animes, tv serie, travel and play basketball, and i have a great passion for web development,*
 
-Here are some ideas to get you started:
+![Lucas Abrantes github stats](https://github-readme-stats.vercel.app/api?username=lucasabrantes1heme=algolia&show_icons=true)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1=algolia" alt="Top languages"/>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🖥 Web Applications
+- 🎨 Interfaces
+- 🔌 Back-end development
+
+
