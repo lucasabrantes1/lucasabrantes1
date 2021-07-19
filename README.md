@@ -6,5 +6,5 @@
 - 🔌 Back-end development
 
 
-![Lucas Abrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=synthwave)
+![Lucas Abrantes](https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
