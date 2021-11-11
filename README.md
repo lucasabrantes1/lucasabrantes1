@@ -11,6 +11,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-![](https://komarev.com/ghpvc/?username=lucasabrantes1-rs)
-
