@@ -3,6 +3,10 @@
 </br>
 - 🖥 Web Applications
 - 🔌 Back-end development
+- 📊 Data analyst and dashboards
+
+[PowerBI Dashboards](#https://pastebin.com/Ad14ywP9)
+
 
 
 
