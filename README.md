@@ -5,7 +5,7 @@
 - 🔌 Back-end development
 - 📊 Data analyst and dashboards
 
-[I'm an inline-style link]([[https://www.google.com](https://pastebin.com/Ad14ywP9)](https://pastebin.com/Ad14ywP9))
+[link text itself]: https://pastebin.com/Ad14ywP9
 
 
 
