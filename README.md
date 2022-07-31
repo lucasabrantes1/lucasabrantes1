@@ -5,7 +5,7 @@
 - 🔌 Back-end development
 - 📊 Data analyst and dashboards
 
-[link text itself]: https://pastebin.com/Ad14ywP9
+[PowerBI Dashboards]: https://pastebin.com/Ad14ywP9
 
 
 
