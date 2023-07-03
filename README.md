@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/BrunnoBird">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasabrantes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1&layout=compact&langs_count=7&theme=dracula&hide=html,batchfile,shell,php,twig,scss,xslt,jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabrantes1&layout=compact&langs_count=7&theme=dracula&hide=html,batchfile,shell,twig,scss,xslt,jupyter%20notebook"/>
 </div>
 
 
