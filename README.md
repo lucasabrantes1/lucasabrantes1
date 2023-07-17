@@ -7,6 +7,7 @@
 - 📊 Data analyst and dashboards
 - 🧾 [PowerBI Dashboards ](https://pastebin.com/Ad14ywP9)
 
+<br/><br/>
 
  <div>
      <a href=""> <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=lucasabrantes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a>
